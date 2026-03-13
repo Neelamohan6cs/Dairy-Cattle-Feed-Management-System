@@ -1,9 +1,9 @@
+import UserForm from "./UserForm";
+
 function App() {
   return (
     <div>
-      <h1>
-        Dairy management
-      </h1>
+      <UserForm/>
     </div>
   );
 }
